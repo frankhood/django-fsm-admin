@@ -1,2 +1,1 @@
-__version__ = "1.2.4"
-__author__ = "G Adventures"
+__version__ = "2.0.0"
