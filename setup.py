@@ -16,7 +16,6 @@ with open("README.rst") as f:
 setup(
     name="django-fsm-admin",
     version=fsm_admin.__version__,
-    author=fsm_admin.__author__,
     description="Integrate django-fsm state transitions into the django admin",
     long_description=readme,
     author_email="software@gadventures.com",
