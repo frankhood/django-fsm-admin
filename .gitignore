@@ -8,3 +8,5 @@ docs/_build
 db.sqlite3
 *.tmp
 .eggs/
+.fms_admin/
+.mypy_cache
